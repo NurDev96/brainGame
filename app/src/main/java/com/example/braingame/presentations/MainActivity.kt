@@ -1,4 +1,4 @@
-package com.example.braingame.presentetions
+package com.example.braingame.presentations
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
